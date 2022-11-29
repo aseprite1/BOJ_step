@@ -1,5 +1,5 @@
 ## 단계별 문제풀이 정리
-> ### BOJ_FORMATTER [(link)](https://github.com/aseprite1/BOJ_step/blob/main/easy_boj_formatter.ipynb)       
+> ### BOJ_FORMATTER [(all)](https://github.com/aseprite1/BOJ_step/blob/main/BOJ_all_step_formatter.ipynb) [(one step)](https://github.com/aseprite1/BOJ_step/blob/main/BOJ_one_step_formatter.ipynb)
 >단계별 기본 템플릿을 ipynb파일 형태로 만들어줌
 ### 목차
 *   [1.](https://github.com/aseprite1/BOJ_step/blob/main/01_%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC_%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.ipynb) 입출력과 사칙연산
