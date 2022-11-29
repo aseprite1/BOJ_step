@@ -1,6 +1,4 @@
 ## 단계별 문제풀이 정리
----
-
 > ### BOJ_FORMATTER [(link)](https://github.com/aseprite1/BOJ_step/blob/main/easy_boj_formatter.ipynb)       
 >단계별 기본 템플릿을 ipynb파일 형태로 만들어줌
 ---
